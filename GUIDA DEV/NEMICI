@@ -1,0 +1,14 @@
+# NEMICI
+Questi sono gli stati:
+
+### Idle (roaming)
+Il nemico ancora non ha avvistato il giocatore quindi o sta fermo o segue un percorso di pattuglia
+
+### Following
+Il nemico ha individuato il giocatore e inizia a seguirlo RAPIDAMENTE. Se il GIOCATORE RIESCE AD ALLONTANARSI IN TEMPO IL NEMICO RIPRENDE LA PATTUGLIA
+
+### Attacking
+Il nemico E ABBASTANZA VICINO DA TOCCARE IL GIOCATORE, TRANSIZIONE ALLA BATTAGLIA
+
+## Triggers
+Il nemico utilizza UN SUONO PER AVVERTIRE DI ESSERE ENTRATO IN FOLLOWING
