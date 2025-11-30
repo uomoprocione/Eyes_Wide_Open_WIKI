@@ -1,1 +1,12 @@
+# Regola n. 1 - Organizzazione del Lavoro
+Prima di iniziare a lavorare ad una funzione, chiedere sempre se qualcuno ci sta già lavorando. Così da non fare lavoro inutile. Per vedere le cose da fare esiste il sito **HacknPlan** dove sono scritte tutte le funzioni da sviluppare.
+
+# Regola n. 2 - Version Control
+Per il version control del progetto useremo  GIT.
+In questo caso, per evitare problemi andremo di Pull Requests. Dalla Repository principale ogni dev dovrà fare un Fork e lavorare su di essa alla sua feature, una volta completata si apre una Pull Request per aggiungerla al progetto principale.
+
+# Regola 3 - Per qualsiasi dubbio chiedete
+Se avete qualche dubbio riguardante il progetto oppure come fare una determinata cosa, PARLIAMO
+
+# Regola 4 - Aggiungere piu  regole
 
